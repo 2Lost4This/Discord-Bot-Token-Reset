@@ -7,4 +7,4 @@ If I find tokens from Discord Bot that were published just like that I upload th
 None of these tokens are valid anymore, that's why I'm uploading them, just don't try :^)
 
 ## Support
-Questions? Join my server [here](https://discord.gg/VM77HTNXrt)
+Questions? Join my server [here](https://discord.gg/VM77HTNXrt) for more infos
