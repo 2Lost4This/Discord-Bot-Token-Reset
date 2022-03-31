@@ -8,3 +8,4 @@ None of these tokens are valid anymore, that's why I'm uploading them, just don'
 
 ## Support
 Questions? Join my server [here](https://discord.gg/VM77HTNXrt) for more infos
+E-Mail Contact: **help@losti.xyz**
